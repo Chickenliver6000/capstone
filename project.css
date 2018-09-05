@@ -1,0 +1,47 @@
+.colmar {
+  font-size: 32px;
+  color: black
+  }
+  .academy {
+    font-size: 32px;
+    color: gray
+  }
+.headerimg {
+  margin-left: 24px;
+  display:inline-flex;
+  justify-content: flex-end;
+}
+
+.courseone {
+  width: 260px;
+  background-color: white;
+  margin-right: 32px;
+  margin-bottom: 16px;
+}
+
+.courseone img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 16px;
+}
+
+.courseone .textbox {
+  width: 220px;
+  height: 140px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 16px;
+}
+
+.courseone .textbox span {
+  font-family: sans-serif;
+  font-weight: 200;
+  font-size: 0.9rem;
+  color: #687083;
+  margin-top: 0.5rem;
+  margin-bottom: 0.75rem;
+  text-transform: uppercase;
+}
+
+.courses-mobile {
+  display: none;
